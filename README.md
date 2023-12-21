@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Robiul Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif](https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robiulhasan0&label=Profile%20views&color=0e75b6&style=flat" alt="robiulhasan0" /> </p>
 
@@ -35,4 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robiulhasan0&show_icons=true&locale=en" alt="robiulhasan0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robiulhasan0&" alt="robiulhasan0" /></p>
-
